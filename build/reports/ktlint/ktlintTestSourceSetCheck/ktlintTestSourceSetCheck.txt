@@ -1,0 +1,1 @@
+[90m/Users/hayato/sharefull/dev/ktlint-custom-rules/src/test/kotlin/sample/[0mSubItemTests.kt[90m:[0m1[90m:1:[0m File must end with a newline (\n)

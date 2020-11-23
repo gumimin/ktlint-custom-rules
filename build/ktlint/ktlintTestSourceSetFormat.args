@@ -1,0 +1,7 @@
+--reporter=plain
+--color
+--ruleset=/Users/hayato/sharefull/dev/ktlint-custom-rules/build/libs/ktlint-custom-rules-1.0-SNAPSHOT.jar
+--reporter=plain,output=/Users/hayato/sharefull/dev/ktlint-custom-rules/build/reports/ktlint/ktlintTestSourceSetFormat/ktlintTestSourceSetFormat.txt
+-F
+"src/test/kotlin/sample/SubItemTests.kt"
+"src/test/kotlin/sample/UserTests.kt"

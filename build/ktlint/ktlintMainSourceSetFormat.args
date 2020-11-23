@@ -1,0 +1,9 @@
+--reporter=plain
+--color
+--ruleset=/Users/hayato/sharefull/dev/ktlint-custom-rules/build/libs/ktlint-custom-rules-1.0-SNAPSHOT.jar
+--reporter=plain,output=/Users/hayato/sharefull/dev/ktlint-custom-rules/build/reports/ktlint/ktlintMainSourceSetFormat/ktlintMainSourceSetFormat.txt
+-F
+"src/main/kotlin/sample/Item.kt"
+"src/main/kotlin/sample/CheckExistTestClassRule.kt"
+"src/main/kotlin/sample/User.kt"
+"src/main/kotlin/sample/CustomRuleSetProvider.kt"

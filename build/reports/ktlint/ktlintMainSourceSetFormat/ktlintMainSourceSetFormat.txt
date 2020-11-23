@@ -1,0 +1,2 @@
+[90m/Users/hayato/sharefull/dev/ktlint-custom-rules/src/main/kotlin/sample/[0mCheckExistTestClassRule.kt[90m:[0m10[90m:1:[0m テストクラスが存在しません (cannot be auto-corrected)
+[90m/Users/hayato/sharefull/dev/ktlint-custom-rules/src/main/kotlin/sample/[0mCustomRuleSetProvider.kt[90m:[0m6[90m:1:[0m テストクラスが存在しません (cannot be auto-corrected)

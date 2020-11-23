@@ -1,0 +1,6 @@
+--reporter=plain
+--color
+--ruleset=/Users/hayato/sharefull/dev/ktlint-custom-rules/build/libs/ktlint-custom-rules-1.0-SNAPSHOT.jar
+--reporter=plain,output=/Users/hayato/sharefull/dev/ktlint-custom-rules/build/reports/ktlint/ktlintKotlinScriptCheck/ktlintKotlinScriptCheck.txt
+"build.gradle.kts"
+"settings.gradle.kts"
